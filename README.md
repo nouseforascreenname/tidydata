@@ -1,7 +1,7 @@
 tidydata
 ========
 
-Code description:
+Code description: </br>
 1) Loads data files and files for loading
 2) Assigns column headings then merges various data sources into one table
 3) Create new tidy table using subject, activity type, mean, and standard deviation columns from the table above
