@@ -9,8 +9,9 @@ Code description: </br>
 
 
 Code Book:
-Column Name | Description ``::`
-| Subject | Code for a single person in the study |``::`
+Column Name | Description
+| Subject | Code for a single person in the study |
+
 | ActivityType | Activity subject was engaging in when the measurement was taken |
 | tBodyAcc.mean...X | mean for the tBodyAcc measurement for the X coordinate |
 | tBodyAcc.mean...Y | mean for the tBodyAcc measurement for the Y coordinate |
